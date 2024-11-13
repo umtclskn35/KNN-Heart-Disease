@@ -1,0 +1,14 @@
+Yaş (age): Yaklaşık 60 yaş civarında olabilir.
+Cinsiyet (sex): Erkek (1).
+Göğüs ağrısı tipi (cp): 4 (Muhtemelen kararlı angina).
+Dinlenme kan basıncı (trestbps): 140 civarı.
+Kolestrol seviyesi (chol): 275 civarı.
+Açlık kan şekeri (fbs): 0 (Yüksek olasılıkla normal).
+Dinlenme elektrokardiyografik sonuçları (restecg): 2 (Muhtemelen olası veya kesin sol ventrikül hipertrofisi).
+Maksimum kalp atış hızı (thalach): 166 civarı.
+Egzersize bağlı anjin (exang): 1 (Evet).
+Egzersizle indüklenen ST-depresyonu (oldpeak): 1.6 civarı.
+Eğim (slope): 2 (Muhtemelen düz ya da ters T dalgası).
+CA (ca): 1 (Muhtemelen bir major damarın rengi).
+Thal (thal): 7 (Muhtemelen reversibl defekt var).
+Hastalık teşhisi (num): 2 (Muhtemelen hafif kalp hastalığı riski var).

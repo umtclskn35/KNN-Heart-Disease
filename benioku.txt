@@ -1,0 +1,11 @@
+OĞUZ EMRE SOLMAZ 21370031072
+Alperen ÖZDELİCE 21370031007
+AHMET EMİN KOYUNCU 21370031056
+YUNUS EMRE SOBACI 21370031042
+UMUT ÇALIŞGAN 21370031053
+
+GRUP NUMARASI : 14
+
+Hocam hasta.txt içerisinde Tıpçı bir arkadaştan aldığımız refrans değerler var. İçerisindeki değerleri arayüze girerek test edebilirsiniz.
+Eğer bilgisayarınızda eksik olan bir paket var ise pip install -r requirements.txt ile bu kodun çalışması için gerekli bütün kütüphaneleri kurabilirsiniz.
+İletilen örnek DB içerisinde csv mevcut değil o yüzden her kod yüklendiğinde url isimli değişkenden verileri anlık çekiyor o yüzden internete bağlı bir şekilde çalıştırın.
